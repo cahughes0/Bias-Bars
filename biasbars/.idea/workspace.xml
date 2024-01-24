@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d41d21b9-10be-4303-8f7f-131851d497b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../assn/babynames.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assn/babynames.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assn/bajillion-handout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assn/bajillion-handout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assn/bajillion.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assn/bajillion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assn/biasbars-handout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assn/biasbars-handout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assn/biasbars.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assn/biasbars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assn/ghost_and_quilt.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assn/ghost_and_quilt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assn/karel-handout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assn/karel-handout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assn/karel.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assn/karel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assn/khansole_and_interest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assn/khansole_and_interest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assn/khansole_and_interest_handout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assn/khansole_and_interest_handout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assn/lists_and_images.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assn/lists_and_images.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assn/sand-handout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assn/sand-handout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assn/sand.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assn/sand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assn/strings-handout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assn/strings-handout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assn/strings_and_wordguessing.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../assn/strings_and_wordguessing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/awesome/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/awesome/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/bouncingBall/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/bouncingBall/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/justanumber/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/justanumber/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/moveToCenter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/moveToCenter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/palindrome/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/palindrome/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/tictactoe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/tictactoe/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/additional_practice.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/additional_practice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/contest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/contest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/coursePlacement.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/coursePlacement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/coursecommunication.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/coursecommunication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/diagnostic-1-soln.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/diagnostic-1-soln.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/diagnostic-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/diagnostic-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/diagnostic-2-soln.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/diagnostic-2-soln.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/diagnostic-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/diagnostic-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/diagnosticgrades.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/diagnosticgrades.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/generalInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/generalInfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/graphics-reference.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/graphics-reference.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/guided_extension.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/guided_extension.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/handout4-using-karel-with-pycharm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/handout4-using-karel-with-pycharm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/honorCode.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/honorCode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/image_reference_guide.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/image_reference_guide.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/installingpycharm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/installingpycharm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/mutation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/mutation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/objectsandclasses.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/objectsandclasses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/practice-diagnostic-1-soln.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/practice-diagnostic-1-soln.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/practice-diagnostic-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/practice-diagnostic-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/practice-diagnostic-2-soln.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/practice-diagnostic-2-soln.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/practice-diagnostic-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/practice-diagnostic-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/pycharm_intro.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/pycharm_intro.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/retractions.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/retractions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../handouts/submitting-assignments.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../handouts/submitting-assignments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/1-Welcome/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/1-Welcome/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/10-Graphics/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/10-Graphics/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/10-Images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/10-Images/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/11-Animation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/11-Animation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/11-MoreLists/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/11-MoreLists/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/12-Graphics/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/12-Graphics/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/13-Animation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/13-Animation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/14-TextProcessing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/14-TextProcessing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/15-Files/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/15-Files/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/16-Dictionaries/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/16-Dictionaries/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/17-NestedStructures/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/17-NestedStructures/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/18-NestedStructures2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/18-NestedStructures2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/19-Ethics/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/19-Ethics/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/2-ControlFlow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/2-ControlFlow/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/20-ClassesObjects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/20-ClassesObjects/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/20-Tuples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/20-Tuples/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/21-ClassesObjects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/21-ClassesObjects/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/22-Memory/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/22-Memory/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/23-SearchEngines/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/23-SearchEngines/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/24-Internet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/24-Internet/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/24-SocialNetworks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/24-SocialNetworks/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/25-AdvancedPython/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/25-AdvancedPython/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/26-BeyondCS106A/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/26-BeyondCS106A/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/27-Overview/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/27-Overview/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/3-Decomposition/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/3-Decomposition/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/4-Variables/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/4-Variables/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/5-ArithmeticExpressions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/5-ArithmeticExpressions/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/6-ControlFlowRevisited/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/6-ControlFlowRevisited/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/7-FunctionsAndParameters/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/7-FunctionsAndParameters/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/8-MoreParameters/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/8-MoreParameters/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/9-Images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/9-Images/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lectures/9-Lists/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lectures/9-Lists/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oh.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../oh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pixarnight.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pixarnight.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/booleans/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/booleans/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/commandline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/commandline/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/comprehensions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/comprehensions/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/copying/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/copying/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/dicts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/dicts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/filereading/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/filereading/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/functions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/functions/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/if/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/if/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/interpreter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/interpreter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/intro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/intro/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/lists/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/lists/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/loops/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/loops/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/maplambda/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/maplambda/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/math/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/math/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/print/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/print/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/range/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/range/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/sorting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/sorting/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/strings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/strings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/style/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/style/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/tuples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/tuples/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pythonreader/variables/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonreader/variables/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restricted/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../../restricted/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restricted/.htstaff" beforeDir="false" afterPath="$PROJECT_DIR$/../../restricted/.htstaff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restricted/pixarnight.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../restricted/pixarnight.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restricted/zoominfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../restricted/zoominfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section1/lessonplan.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section1/lessonplan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section1/section1-soln.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section1/section1-soln.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section1/section1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section1/section1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section2/lessonplan.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section2/lessonplan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section2/section2-soln.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section2/section2-soln.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section2/section2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section2/section2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section3/lessonplan.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section3/lessonplan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section3/section3-soln.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section3/section3-soln.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section3/section3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section3/section3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section4/lessonplan.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section4/lessonplan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section4/section4-soln.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section4/section4-soln.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section4/section4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section4/section4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section5/lessonplan.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section5/lessonplan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section5/section5-soln.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section5/section5-soln.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section5/section5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section5/section5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section6/lessonplan.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section6/lessonplan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section6/section6-soln.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section6/section6-soln.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section6/section6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section6/section6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section7/lessonplan.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section7/lessonplan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section7/section7-soln.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section7/section7-soln.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section7/section7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section7/section7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section8/lessonplan.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section8/lessonplan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section8/section8-soln.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section8/section8-soln.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section8/section8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section8/section8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section9/section9-soln.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section9/section9-soln.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section/section9/section9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../section/section9/section9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/assn/biasbars-handout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/assn/biasbars-handout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/handouts/coursePlacement.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/handouts/coursePlacement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/handouts/coursecommunication.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/handouts/coursecommunication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/handouts/guided_extension.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/handouts/guided_extension.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/handouts/installingpycharm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/handouts/installingpycharm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/handouts/retractions.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/handouts/retractions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/lectures/1-Welcome/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/lectures/1-Welcome/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/lectures/14-TextProcessing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/lectures/14-TextProcessing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/lectures/18-NestedStructures2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/lectures/18-NestedStructures2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/lectures/2-ControlFlow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/lectures/2-ControlFlow/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/lectures/26-BeyondCS106A/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/lectures/26-BeyondCS106A/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/lectures/3-Decomposition/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/lectures/3-Decomposition/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/lectures/7-FunctionsAndParameters/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/lectures/7-FunctionsAndParameters/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/oh.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/oh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/parts/announcements.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/parts/announcements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/parts/assignmentList.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/parts/assignmentList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/parts/courseValues.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/parts/courseValues.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/parts/index-mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/parts/index-mobile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/parts/index-wide.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/parts/index-wide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/parts/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/parts/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/parts/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/parts/resources.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/parts/teachingTeam.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/parts/teachingTeam.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/parts/todoList.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/parts/todoList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/restricted/zoominfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../templates/restricted/zoominfo.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="61n4dyn8" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="214mrlnxdyUmtpsy9crtOAFXLVj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "/Users/elysecornwall/Desktop/cs106a winter/WWW/handouts_w2021/biasbars"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d41d21b9-10be-4303-8f7f-131851d497b2" name="Default Changelist" comment="" />
+      <created>1637208934404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637208934404</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

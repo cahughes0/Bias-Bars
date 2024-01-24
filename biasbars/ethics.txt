@@ -1,0 +1,18 @@
+1. With the more neutral words "course", "the", and "teach", I
+didn't really see much difference between the genders. However,
+the more "loaded" words "unfair", "funny", and "mean" tended
+to favor men (higher "funny" occurrence) than women (higher
+"unfair" and "mean" occurrences). This definitely illuminates a
+clear gender bias within professor reviews.
+
+2. If I could re-design the ratings website, I would address
+this problem by including the pronouns of the professors
+(from their website) that corresponds with an identity, or
+simply add an option for professors to specify their gender
+identity on the website.
+
+3. A different problem related to the topic is client reviews
+of female vs. male work. The values being tackled in this are
+sexism displayed in client reviews, and this problem is being
+solved for women who want to work/ creating a more inclusive
+society.
